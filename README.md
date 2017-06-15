@@ -1,27 +1,39 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+#Syllacode
+======
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+*SyllaCode* lets users created their own coding curriculum using their own link that they find as well as using our database of resources. 
 
-## Getting Started
+## Background
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
-* Fork the repo
+Organizing all of your links for resources is never easy nor is learning coding in the right order of diffuculty. We decided to make an app to solve both of these problems. On this app users can make their own curriculum by storing their own links into a coding track that we provide for them.
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+## About SyllaCode
 
-## Creator
+Syllacode lets you submit your own links which goes into our database for other users to potentially use. By impletementing drag and drop you can put these links anywhere on your coding track. Link's currently in our database are also on the side for users to use at their disgression.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## Technologies used 
+-Handlebars.js
+-Node.js
+-Express
+-Sequelize
+-MySQL
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Application Link
 
-## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+## Contributors
+
+* Vincent Zhang <https://github.com/vzhang517>
+* Mike Reed <https://github.com/mreed5168>
+* Daniel Russo <https://github.com/serenanguyen>
+* Brendan Rogers <https://github.com/BooRad45>
+* Shea Knox <https://github.com/vzhang517>
+
+## License
+
+MIT License
+
+Copyright (c) 2017 Vincent Zhang, Mike Reed, Daniel Russo, Brendan Rogers, Shea Knox
+
