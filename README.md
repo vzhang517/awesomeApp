@@ -13,11 +13,11 @@ Organizing all of your links for resources is never easy nor is learning coding 
 Syllacode lets you submit your own links which goes into our database for other users to potentially use. By impletementing drag and drop you can put these links anywhere on your coding track. Link's currently in our database are also on the side for users to use at their disgression.
 
 ## Technologies used 
--Handlebars.js
--Node.js
--Express
--Sequelize
--MySQL
+⋅⋅*Handlebars.js
+⋅⋅*Node.js
+⋅⋅*Express
+⋅⋅*Sequelize
+⋅⋅*MySQL
 
 
 ## Application Link
